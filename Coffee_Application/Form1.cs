@@ -50,7 +50,7 @@ namespace Coffee_Application
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             homePanel.Visible = false;
-            menuPanel.Visible = true;
+            //menuPanel.Visible = true;
             //adoptionPanel.Visible = false;
 
         }
